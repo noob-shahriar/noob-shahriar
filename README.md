@@ -1,15 +1,8 @@
-<!-- ═══════════════════════════════════════════════════════════════
-  HOW TO USE
-  1. Create a repo named exactly like your GitHub username
-  2. Put this file in it as README.md
-  3. Search & replace:  YOUR_USERNAME  |  YOUR NAME  |  links & emails
-═══════════════════════════════════════════════════════════════ -->
-
 <!-- ░░░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░░░ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=YOUR%20NAME&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Turning%20data%20into%20decisions%20%E2%80%A2%20one%20model%20at%20a%20time&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Shahriar%20Emon&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Turning%20data%20into%20decisions%20%E2%80%A2%20one%20model%20at%20a%20time&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=CS+Graduate+%40+BRAC+University+%F0%9F%8E%93;Aspiring+Data+Analyst+%7C+Data+Scientist;Machine+Learning+Learner+%F0%9F%A4%96;I+turn+messy+data+into+clear+stories+%F0%9F%93%8A" alt="Typing SVG" />
@@ -17,9 +10,9 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge&labelColor=0f2027)
-![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=00d9ff&labelColor=0f2027)
-![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=STARS&style=for-the-badge&color=00d9ff&labelColor=0f2027)
+![Profile Views](https://komarev.com/ghpvc/?username=noob-shahriar&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge&labelColor=0f2027)
+![Followers](https://img.shields.io/github/followers/noob-shahriar?label=FOLLOWERS&style=for-the-badge&color=00d9ff&labelColor=0f2027)
+![Stars](https://img.shields.io/github/stars/noob-shahriar?label=STARS&style=for-the-badge&color=00d9ff&labelColor=0f2027)
 
 </div>
 
@@ -31,7 +24,7 @@
 
 ```python
 class Me:
-    name        = "YOUR NAME"
+    name        = "Shahriar Emon"
     education   = "B.Sc. in Computer Science, BRAC University 🇧🇩"
     location    = "Bangladesh"
     focus       = ["Data Analysis", "Data Science", "Machine Learning"]
@@ -130,10 +123,10 @@ class Me:
 
 | 🗂️ Project | 📝 What it does | 🧰 Built with | 🔗 Link |
 |:--|:--|:--|:-:|
-| **📈 Sales Insights Dashboard** | Explores sales trends and surfaces actionable insights for decision-makers | `Python` `Pandas` `Power BI` | [View](https://github.com/YOUR_USERNAME/project-1) |
-| **🏠 House Price Predictor** | Regression model predicting prices from property features | `Scikit-learn` `XGBoost` | [View](https://github.com/YOUR_USERNAME/project-2) |
-| **💬 Sentiment Analyzer** | Classifies text reviews as positive, negative or neutral | `NLP` `TensorFlow` | [View](https://github.com/YOUR_USERNAME/project-3) |
-| **🩺 Health Data EDA** | Deep exploratory analysis with statistical testing and visuals | `Seaborn` `SciPy` | [View](https://github.com/YOUR_USERNAME/project-4) |
+| **📈 Sales Insights Dashboard** | Explores sales trends and surfaces actionable insights for decision-makers | `Python` `Pandas` `Power BI` | [View](https://github.com/noob-shahriar/project-1) |
+| **🏠 House Price Predictor** | Regression model predicting prices from property features | `Scikit-learn` `XGBoost` | [View](https://github.com/noob-shahriar/project-2) |
+| **💬 Sentiment Analyzer** | Classifies text reviews as positive, negative or neutral | `NLP` `TensorFlow` | [View](https://github.com/noob-shahriar/project-3) |
+| **🩺 Health Data EDA** | Deep exploratory analysis with statistical testing and visuals | `Seaborn` `SciPy` | [View](https://github.com/noob-shahriar/project-4) |
 
 </div>
 
@@ -166,12 +159,12 @@ MLOps & Deployment           ██░░░░░░░░░░░░░░░
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="stats"/>
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00d9ff&text_color=ffffff" alt="top languages"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=noob-shahriar&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noob-shahriar&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00d9ff&text_color=ffffff" alt="top languages"/>
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f2027&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=noob-shahriar&theme=tokyonight&hide_border=true&background=0f2027&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" alt="streak"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0f2027&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=noob-shahriar&bg_color=0f2027&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/>
 
 </div>
 
@@ -199,10 +192,9 @@ I'm open to **internships, collaborations, and conversations** about data. Say h
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://YOUR_PORTFOLIO.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shahriar-emon-094639229)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emonshahriar41@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/noob-shahriar)
 
 </div>
 
