@@ -1,74 +1,219 @@
-<!-- Profile Header -->
-<h1 align="center">Hey 👋, I'm Shahriar Emon</h1>
-<h3 align="center">🚀 A Curious Learner | 💻 Tech Enthusiast | 🎯 Always Improving</h3>
+<!-- ═══════════════════════════════════════════════════════════════
+  HOW TO USE
+  1. Create a repo named exactly like your GitHub username
+  2. Put this file in it as README.md
+  3. Search & replace:  YOUR_USERNAME  |  YOUR NAME  |  links & emails
+═══════════════════════════════════════════════════════════════ -->
 
-<!-- Typing animation -->
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=440&lines=New+Learner;Python+is+my+favorite+language!;Always+Exploring;Loves+Coding+%26+Creativity;Open+to+Collaboration;Fun+Fact:+Take+Everything+Seriously!"/>
-  </a>
-</p>
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ HEADER ░░░░░░░░░░░░░░░░░░░░░░ -->
 
----
+<div align="center">
 
-<!-- GitHub Profile Views -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=noob-shahriar&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="noob-shahriar" />
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=YOUR%20NAME&fontSize=62&fontColor=ffffff&fontAlignY=38&desc=Turning%20data%20into%20decisions%20%E2%80%A2%20one%20model%20at%20a%20time&descSize=18&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
 
-<!-- GIF Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="Coding GIF"/>
-</p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=900&color=00D9FF&center=true&vCenter=true&width=700&lines=CS+Graduate+%40+BRAC+University+%F0%9F%8E%93;Aspiring+Data+Analyst+%7C+Data+Scientist;Machine+Learning+Learner+%F0%9F%A4%96;I+turn+messy+data+into+clear+stories+%F0%9F%93%8A" alt="Typing SVG" />
+</a>
 
----
+<br/>
 
-### 🌐 Connect with me
-<p align="left">
-<a href="mailto:emonshahriar41@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/gmail--v1.png" alt="email" height="40" width="40" /></a>
-<a href="https://github.com/noob-shahriar" target="blank"><img align="center" src="https://img.icons8.com/material-outlined/48/000000/github.png" alt="github" height="40" width="40" /></a>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00d9ff&style=for-the-badge&labelColor=0f2027)
+![Followers](https://img.shields.io/github/followers/YOUR_USERNAME?label=FOLLOWERS&style=for-the-badge&color=00d9ff&labelColor=0f2027)
+![Stars](https://img.shields.io/github/stars/YOUR_USERNAME?label=STARS&style=for-the-badge&color=00d9ff&labelColor=0f2027)
 
----
+</div>
 
-### ⚡ Languages and Tools
-<p align="center">
-  <!-- Highlight Python first -->
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/></a>
-  <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/></a>
-  <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/></a>
-  <a href="https://www.photoshop.com/en" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/></a>
-</p>
+<br/>
 
----
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ ABOUT ░░░░░░░░░░░░░░░░░░░░░░ -->
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=noob-shahriar&show_icons=true&theme=tokyonight&custom_title=My+GitHub+Stats+(Python+First!)" alt="stats" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=noob-shahriar&theme=tokyonight" alt="streak" height="180"/>
-</p>
+## 👋 &nbsp;Hello, World!
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=noob-shahriar&show_icons=true&locale=en&layout=compact&theme=tokyonight&custom_title=Mostly+Python+❤️" alt="languages" height="180"/>
-</p>
+```python
+class Me:
+    name        = "YOUR NAME"
+    education   = "B.Sc. in Computer Science, BRAC University 🇧🇩"
+    location    = "Bangladesh"
+    focus       = ["Data Analysis", "Data Science", "Machine Learning"]
+    mindset     = "Curious. Consistent. Always shipping."
+    currently   = "Building projects, one dataset at a time"
 
----
+    def goal(self):
+        return "Use data to solve real problems that matter."
 
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=noob-shahriar&theme=onedark&row=1&column=6" alt="trophies" />
-</p>
+    def fun_fact(self):
+        return "I debug with print() and I'm not ashamed 😄"
+```
 
----
+> 💡 *"Without data you're just another person with an opinion."* — W. Edwards Deming
 
-### 🎯 Fun Fact
-💡 *“Take everything seriously.”*  
-<br>
-<p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60">
-</p>
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ LEARNING ░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🌱 &nbsp;What I'm Learning Right Now
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 📊 Data Analysis
+- Data cleaning & wrangling
+- Exploratory Data Analysis
+- SQL & business queries
+- Dashboards & storytelling
+
+</td>
+<td width="33%" valign="top">
+
+### 🧪 Data Science
+- Statistics & probability
+- Feature engineering
+- Hypothesis testing
+- End-to-end projects
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 Machine Learning
+- Regression & classification
+- Model evaluation & tuning
+- Clustering & dimensionality reduction
+- Intro to deep learning
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ TECH STACK ░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🛠️ &nbsp;Tech Stack & Tools
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=python,r,cpp,java,js&theme=dark" alt="languages"/>
+
+**Data & ML Libraries**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=plotly&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-4c8cbf?style=for-the-badge&logoColor=white)
+
+**Databases, BI & Tools**
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+
+</div>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ PROJECTS ░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🚀 &nbsp;Featured Projects
+
+<div align="center">
+
+| 🗂️ Project | 📝 What it does | 🧰 Built with | 🔗 Link |
+|:--|:--|:--|:-:|
+| **📈 Sales Insights Dashboard** | Explores sales trends and surfaces actionable insights for decision-makers | `Python` `Pandas` `Power BI` | [View](https://github.com/YOUR_USERNAME/project-1) |
+| **🏠 House Price Predictor** | Regression model predicting prices from property features | `Scikit-learn` `XGBoost` | [View](https://github.com/YOUR_USERNAME/project-2) |
+| **💬 Sentiment Analyzer** | Classifies text reviews as positive, negative or neutral | `NLP` `TensorFlow` | [View](https://github.com/YOUR_USERNAME/project-3) |
+| **🩺 Health Data EDA** | Deep exploratory analysis with statistical testing and visuals | `Seaborn` `SciPy` | [View](https://github.com/YOUR_USERNAME/project-4) |
+
+</div>
+
+> 🔧 *Replace these with your real projects. Even small, well-documented ones count more than big, messy ones.*
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ ROADMAP ░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🗺️ &nbsp;My Learning Roadmap
+
+```text
+Python & Programming Basics  ████████████████████  100%  ✅
+SQL & Databases              ██████████████░░░░░░   70%  🔄
+Data Analysis (Pandas/EDA)   ███████████████░░░░░   75%  🔄
+Data Visualization           ██████████████░░░░░░   70%  🔄
+Statistics & Probability     ██████████░░░░░░░░░░   50%  🔄
+Machine Learning             ████████░░░░░░░░░░░░   40%  🔄
+Deep Learning                ████░░░░░░░░░░░░░░░░   20%  🌱
+MLOps & Deployment           ██░░░░░░░░░░░░░░░░░░   10%  🌱
+```
+
+<sub>*Progress bars are honest estimates, updated as I grow.*</sub>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ STATS ░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 📊 &nbsp;GitHub Stats
+
+<div align="center">
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00d9ff&icon_color=00d9ff&text_color=ffffff" alt="stats"/>
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0f2027&title_color=00d9ff&text_color=ffffff" alt="top languages"/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0f2027&ring=00d9ff&fire=ff6b35&currStreakLabel=00d9ff" alt="streak"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0f2027&color=00d9ff&line=00d9ff&point=ffffff&area=true&hide_border=true" width="100%" alt="activity graph"/>
+
+</div>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ GOALS ░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🎯 &nbsp;Goals for This Year
+
+- [x] Graduate with a CS degree from BRAC University 🎓
+- [x] Learn Python for data work
+- [ ] Complete 5 end-to-end data science projects
+- [ ] Publish 2 notebooks on Kaggle
+- [ ] Master SQL for analytics
+- [ ] Build and deploy my first ML model
+- [ ] Land a role as a Data Analyst / Junior Data Scientist 💼
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ CONNECT ░░░░░░░░░░░░░░░░░░░░░░ -->
+
+## 🤝 &nbsp;Let's Connect
+
+I'm open to **internships, collaborations, and conversations** about data. Say hi!
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/YOUR_KAGGLE)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00d9ff?style=for-the-badge&logo=googlechrome&logoColor=black)](https://YOUR_PORTFOLIO.com)
+
+</div>
+
+<br/>
+
+<!-- ░░░░░░░░░░░░░░░░░░░░░░ FOOTER ░░░░░░░░░░░░░░░░░░░░░░ -->
+
+<div align="center">
+
+⭐ *If you like what you see, drop a star on my repos!* ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=120&section=footer" width="100%" alt="footer"/>
+
+</div>
